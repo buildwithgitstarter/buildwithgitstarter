@@ -1,7 +1,8 @@
 # BuildWithGit
 <div align="center">
 
-![Website Link](https://via.placeholder.com/200x80/4f46e5/ffffff?text=BuildWithGit)
+[![BuildWithGit Logo](https://github.com/buildwithgitstarter/buildwithgitstarter/raw/main/logo.png)](https://buildwithgit.com)
+
 
 **Starter code for completing the challenges**
 
