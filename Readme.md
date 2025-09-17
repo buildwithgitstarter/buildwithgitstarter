@@ -6,9 +6,10 @@
 
 **Starter code for completing the challenges**
 
-[![GitHub stars](https://img.shields.io/github/stars/buildwithgitstarter/buildwithgit?style=social)](https://github.com/buildwithgitstarter/buildwithgit)
-[![GitHub forks](https://img.shields.io/github/forks/buildwithgitstarter/buildwithgit?style=social)](https://github.com/buildwithgitstarter/buildwithgit)
-[![GitHub issues](https://img.shields.io/github/issues/buildwithgitstarter/buildwithgit)](https://github.com/buildwithgitstarter/buildwithgit/issues)
+[![GitHub stars](https://img.shields.io/github/stars/buildwithgitstarter/buildwithgitstarter?style=social)](https://github.com/buildwithgitstarter/buildwithgitstarter)
+[![GitHub forks](https://img.shields.io/github/forks/buildwithgitstarter/buildwithgitstarter?style=social)](https://github.com/buildwithgitstarter/buildwithgitstarter)
+[![GitHub issues](https://img.shields.io/github/issues/buildwithgitstarter/buildwithgitstarter)](https://github.com/buildwithgitstarter/buildwithgitstarter/issues)
+
 
 </div>
 
