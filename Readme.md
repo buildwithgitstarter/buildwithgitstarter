@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/buildwithgitstarter/buildwithgitstarter/raw/main/logo.png" alt="BuildWithGit" width="120" />
+<img src="https://github.com/buildwithgitstarter/buildwithgitstarter/raw/main/main.png" alt="BuildWithGit" width="120" />
 
 ### BuildWithGit
 
