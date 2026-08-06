@@ -8,12 +8,30 @@ The official GitHub organization for [buildwithgit.com](https://buildwithgit.com
 
 ---
 
+**Install the Desktop app**
+
+**macOS / Linux**
+
+```bash
+curl -fsSL https://buildwithgit.com/desktop/install.sh | sh
+```
+
+**Windows PowerShell**
+
+```powershell
+irm https://buildwithgit.com/desktop/install.ps1 | iex
+```
+
+[Documentation](https://buildwithgit.com/docs) · [Website](https://buildwithgit.com)
+
+---
+
 **Install the CLI**
 
-```
-curl -sSL https://raw.githubusercontent.com/buildwithgitstarter/buildwithgit-cli/main/install.sh | sh
+```bash
+curl -fsSL https://buildwithgit.com/cli/install.sh | sh
 ```
 
-[CLI Repository](https://github.com/buildwithgitstarter/buildwithgit-cli) · [Documentation](https://buildwithgit.com/docs) · [Website](https://buildwithgit.com)
+[Documentation](https://buildwithgit.com/docs) · [Website](https://buildwithgit.com)
 
 </div>
